@@ -13,7 +13,7 @@ const UserSchema = new Schema(
             unique:true,
             validate: {
                 validator: function(v) {
-                    return /^[a-zA-Z0-9.! #$%&'*+/=? ^_`{|}~-]+@[a-zA-Z0-9-]+(?:\. [a-zA-Z0-9-]+)*$/.test(v);
+                    return /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/.test(v);
                 }                
             },
             required: [true, 'Email address is required!']                  
@@ -39,12 +39,12 @@ const UserSchema = new Schema(
     }
 );
 
-UserSchema.virtual('friendCount').get(function() {
-    return this.friends.reduce(
-      (total, friends) => total + friends.replies.length + 1,
-      0
-    );
-  });
+// UserSchema.virtual('friendCount').get(function() {
+//     return this.friends.reduce(
+//       (total, friends) => total + friends.replies.length + 1,
+//       0
+//     );
+//   });
 
 const User = model('User', UserSchema)
 
