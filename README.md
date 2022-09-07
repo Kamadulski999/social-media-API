@@ -8,7 +8,7 @@ This project is for the Washington University in St Louis Coding Bootcamp. This 
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [Documentation](#documentation)
+* [Demonstration](#demonstration)
 
 ## Usage 
 
@@ -51,7 +51,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Documentation
+## Demonstration
    
 ### User Routes
 [![image](/public/assets/images/screenshot.png)](https://drive.google.com/file/d/1tTLHuZOMOjcDd1FemPJdmWgoE0saI3Qy/view)
