@@ -2,7 +2,7 @@
 
 ## Description 
 
-This project is for the Washington University in St Louis Coding Bootcamp. This application is a functional backend for a proposed social networking platform. It is built with Node, MongoDB, Mongoose, ExpressJS, and NoSQL, using MVC architecture.
+This project is for the Washington University in St Louis Coding Bootcamp. This application is a functional backend for a proposed social networking platform. It is built with Node, MongoDB, Mongoose, ExpressJS, and NoSQL using Model-View-Controller architecture.
 ## Table of Contents 
 
 * [Usage](#usage)
