@@ -54,13 +54,13 @@ SOFTWARE.
 ## Documentation
    
 ### User Routes
-[![image](/public/assets/images/screenshot.jpg)](https://drive.google.com/file/d/1tTLHuZOMOjcDd1FemPJdmWgoE0saI3Qy/view)
+[![image](/public/assets/images/screenshot.png)](https://drive.google.com/file/d/1tTLHuZOMOjcDd1FemPJdmWgoE0saI3Qy/view)
  
 
 
 ### Thought Routes
 
-[![image](/public/assets/images/screenshot.jpg)](https://drive.google.com/file/d/1KCAxPtkHZdXeFfX9p6DA77O8S-OFj330/view)
+[![image](/public/assets/images/screenshot.png)](https://drive.google.com/file/d/1KCAxPtkHZdXeFfX9p6DA77O8S-OFj330/view)
 
 
 
